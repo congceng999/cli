@@ -1,0 +1,9 @@
+{
+  "vue": {
+    "name": "基于vue2项目",
+    "value": "vue",
+    "git": "git@github.com:congceng999/vue-tel.git",
+    "options": []
+  }
+ 
+}
